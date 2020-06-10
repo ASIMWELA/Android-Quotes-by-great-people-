@@ -1,0 +1,2 @@
+rootProject.name='Inspiration quotes'
+include ':app'
